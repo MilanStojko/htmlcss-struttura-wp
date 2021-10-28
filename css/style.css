@@ -55,5 +55,7 @@
     float: none;
 }
 .divisione1 .divisione2 .divisione3 .generale ::after{
+    content: "";
+    display: table;
     clear: both;
 }
