@@ -54,7 +54,7 @@
     margin: -15px 10% 30px;
     float: none;
 }
-.divisione1 .divisione2 .divisione3 .generale ::after{
+.generale ::after{
     content: "";
     display: table;
     clear: both;
