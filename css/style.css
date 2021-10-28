@@ -10,7 +10,7 @@
     background-color: #e1d67a;
     width: 79%;
     margin: 30px 10%;
-    float: none
+    float: none;
 }
 .generale{
     background-color: #0385fa;
@@ -51,6 +51,9 @@
     background-color: #8801fe;
     height: 60px;
     width: 79%;
-    margin: -15px 10% 30px 10%;
+    margin: -15px 10% 30px;
     float: none;
+}
+.divisione1 .divisione2 .divisione3 .generale ::after{
+    clear: both;
 }
