@@ -1,0 +1,56 @@
+.divisione1{
+    height: 100px;
+    background-color: #e579e6;
+    width: 79%;
+    margin: 30px 10%;
+    float: none;
+}
+.divisione2{
+    height: 500px;
+    background-color: #e1d67a;
+    width: 79%;
+    margin: 30px 10%;
+    float: none
+}
+.generale{
+    background-color: #0385fa;
+    height: 700px;
+    width: 79%;
+    margin: 30px 10%;
+}
+.sezione1{
+    background-color: #abcfe7;
+    height: 90px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.sezione2{
+    background-color: #abcfe7;
+    height: 570px;
+    width: 21%;
+    margin-bottom: 20px;
+    margin-right: 1%;
+    float: left;
+}
+.sezione3{
+    background-color: #abcfe7;
+    height: 570px;
+    width: 56%;
+    margin-bottom: 20px;
+    margin-right: 1%;
+    float: left;
+}
+.sezione4{
+    background-color: #abcfe7;
+    height: 570px;
+    width: 21%;
+    margin-bottom: 20px;
+    float: left;
+}
+.divisione3{
+    background-color: #8801fe;
+    height: 60px;
+    width: 79%;
+    margin: -15px 10% 30px 10%;
+    float: none;
+}
